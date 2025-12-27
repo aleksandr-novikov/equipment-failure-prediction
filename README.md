@@ -34,7 +34,7 @@ source .venv/bin/activate
 
 ```bash
 pip install -U pip
-pip install jupyter ipykernel pandas numpy matplotlib seaborn scipy phik
+pip install jupyter ipykernel pandas numpy matplotlib seaborn scipy phik imbalanced-learn optuna catboost lightgbm xgboost shap
 ```
 
 ---
